@@ -1,0 +1,1 @@
+const TRANSPARENT = 0;
