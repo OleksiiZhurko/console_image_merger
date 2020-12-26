@@ -1,9 +1,9 @@
-#Image merger
+# Image merger
 
-###Description
+### Description
 This project was created for merging pictures.
 
-###How it works
+### How it works
 
 You need to create a folder that will contain pictures of 
 the same size. Then specify the path to this folder, the 
@@ -16,7 +16,7 @@ Pictures are arranged in such a way `min(abs(imgWidth *
 imgNumber1 - imgHeight * imgNumber2))`. Wherein `imgNumber1 *
 imgNumber2 >= images`.
 
-###Example
+### Example
 
 The images were **980 width** and **1141 height** in the 
 example below.
